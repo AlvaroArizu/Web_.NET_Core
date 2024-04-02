@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alvar\\OneDrive\\Documentos\\.NET\\Programación Web NET Core\\Web_.NET_Core\\Ejemplos Practicos\\EjemplosDelCurso\\ProcedimientoYFuncion\\ProcedimientoYFuncion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alvar\\OneDrive\\Documentos\\.NET\\Programación Web NET Core\\Web_.NET_Core\\Ejemplos Practicos\\EjemplosDelCurso\\ProcedimientoYFuncion\\ProcedimientoYFuncion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alvar\\OneDrive\\Documentos\\.NET\\Programación Web NET Core\\Web_.NET_Core\\Ejemplos Practicos\\EjemplosDelCurso\\ProcedimientoYFuncion\\ProcedimientoYFuncion.csproj",
+        "projectName": "ProcedimientoYFuncion",
+        "projectPath": "C:\\Users\\alvar\\OneDrive\\Documentos\\.NET\\Programación Web NET Core\\Web_.NET_Core\\Ejemplos Practicos\\EjemplosDelCurso\\ProcedimientoYFuncion\\ProcedimientoYFuncion.csproj",
+        "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alvar\\OneDrive\\Documentos\\.NET\\Programación Web NET Core\\Web_.NET_Core\\Ejemplos Practicos\\EjemplosDelCurso\\ProcedimientoYFuncion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

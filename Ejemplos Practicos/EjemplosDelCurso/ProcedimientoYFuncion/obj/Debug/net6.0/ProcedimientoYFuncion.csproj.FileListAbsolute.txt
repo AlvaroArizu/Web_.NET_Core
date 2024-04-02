@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\bin\Debug\net6.0\ProcedimientoYFuncion.exe
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\bin\Debug\net6.0\ProcedimientoYFuncion.deps.json
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\bin\Debug\net6.0\ProcedimientoYFuncion.runtimeconfig.json
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\bin\Debug\net6.0\ProcedimientoYFuncion.dll
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\bin\Debug\net6.0\ProcedimientoYFuncion.pdb
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\obj\Debug\net6.0\ProcedimientoYFuncion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\obj\Debug\net6.0\ProcedimientoYFuncion.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\obj\Debug\net6.0\ProcedimientoYFuncion.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\obj\Debug\net6.0\ProcedimientoYFuncion.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\obj\Debug\net6.0\ProcedimientoYFuncion.sourcelink.json
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\obj\Debug\net6.0\ProcedimientoYFuncion.dll
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\obj\Debug\net6.0\refint\ProcedimientoYFuncion.dll
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\obj\Debug\net6.0\ProcedimientoYFuncion.pdb
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\obj\Debug\net6.0\ProcedimientoYFuncion.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ProcedimientoYFuncion\obj\Debug\net6.0\ref\ProcedimientoYFuncion.dll

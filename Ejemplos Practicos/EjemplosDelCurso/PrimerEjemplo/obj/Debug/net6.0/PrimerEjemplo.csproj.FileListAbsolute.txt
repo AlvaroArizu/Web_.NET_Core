@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\bin\Debug\net6.0\PrimerEjemplo.exe
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\bin\Debug\net6.0\PrimerEjemplo.deps.json
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\bin\Debug\net6.0\PrimerEjemplo.runtimeconfig.json
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\bin\Debug\net6.0\PrimerEjemplo.dll
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\bin\Debug\net6.0\PrimerEjemplo.pdb
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\obj\Debug\net6.0\PrimerEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\obj\Debug\net6.0\PrimerEjemplo.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\obj\Debug\net6.0\PrimerEjemplo.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\obj\Debug\net6.0\PrimerEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\obj\Debug\net6.0\PrimerEjemplo.sourcelink.json
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\obj\Debug\net6.0\PrimerEjemplo.dll
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\obj\Debug\net6.0\refint\PrimerEjemplo.dll
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\obj\Debug\net6.0\PrimerEjemplo.pdb
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\obj\Debug\net6.0\PrimerEjemplo.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\PrimerEjemplo\obj\Debug\net6.0\ref\PrimerEjemplo.dll

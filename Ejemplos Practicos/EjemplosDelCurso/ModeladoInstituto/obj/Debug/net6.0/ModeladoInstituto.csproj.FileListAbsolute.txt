@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\bin\Debug\net6.0\ModeladoInstituto.exe
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\bin\Debug\net6.0\ModeladoInstituto.deps.json
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\bin\Debug\net6.0\ModeladoInstituto.runtimeconfig.json
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\bin\Debug\net6.0\ModeladoInstituto.dll
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\bin\Debug\net6.0\ModeladoInstituto.pdb
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\obj\Debug\net6.0\ModeladoInstituto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\obj\Debug\net6.0\ModeladoInstituto.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\obj\Debug\net6.0\ModeladoInstituto.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\obj\Debug\net6.0\ModeladoInstituto.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\obj\Debug\net6.0\ModeladoInstituto.sourcelink.json
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\obj\Debug\net6.0\ModeladoInstituto.dll
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\obj\Debug\net6.0\refint\ModeladoInstituto.dll
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\obj\Debug\net6.0\ModeladoInstituto.pdb
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\obj\Debug\net6.0\ModeladoInstituto.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Documentos\.NET\Programación Web NET Core\Web_.NET_Core\Ejemplos Practicos\EjemplosDelCurso\ModeladoInstituto\obj\Debug\net6.0\ref\ModeladoInstituto.dll
